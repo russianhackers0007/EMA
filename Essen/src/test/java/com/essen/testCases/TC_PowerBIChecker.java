@@ -53,7 +53,7 @@ public class TC_PowerBIChecker extends BaseClass
 		providerpanelwait.until(ExpectedConditions.refreshed(ExpectedConditions.visibilityOfElementLocated
 				(By.xpath("//div[@title='Patient Count by CAP vs FFS']/parent::div"))));
 		
-		if(driver.findElement(By.xpath("//h3[contains(text(),'Total Patients as Panel Provider')]")).getText().contains("Panel Provider"))
+		if(driver.findElement(By.xpath("//h3[contains(text(),'Total Patients as Panel Provider')]")).getText().contains("Panels Providers"))
 		{
 			driver.switchTo().defaultContent();
 			logger.info("Provider Panel Dashboard page successfully validated");

@@ -1154,3 +1154,9 @@
 2022-08-25 12:02:24,031 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
 2022-08-25 12:04:16,191 [main] INFO eCares - Provider Panel Dashboard page successfully validated
 2022-08-25 12:04:26,380 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-25 13:30:16,524 [main] INFO eCares - Provider Panel Dashboard page successfully validated
+2022-08-25 13:30:24,997 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-25 13:30:28,495 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
+2022-08-25 13:32:39,360 [main] INFO eCares - Provider Panel Dashboard validation failed
+2022-08-25 13:32:47,206 [main] INFO eCares - Facility Panel Dashboard page successfully validated
+2022-08-25 13:32:50,523 [main] INFO eCares - Post Acute Care Dashboard page successfully validated
